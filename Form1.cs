@@ -12,7 +12,7 @@ namespace RO_ManualSoft
         List<Eszkoz> eszkozok = new List<Eszkoz>();
         Eszkoz aktualis;
 
-        // -------- Hozzáadás panel vezérlők --------
+        
         TextBox tbNev;
         TextBox tbKep;
         TextBox tbManual;
